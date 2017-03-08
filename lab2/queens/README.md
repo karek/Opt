@@ -9,7 +9,7 @@ Usage
 
 ./hetmani.o <par>
 
-Than it takes one var n from stdin.
+It takes one number n from stdin.
 
 par = 0 | 1 is optional  and means the type of solution we would like to use. (There are two implemented)
 0 -> Whole rows / columns /diags as inequalities
