@@ -7,7 +7,7 @@ make hetmani.o
 
 Usage 
 
-./hetmani.o <par>
+'./hetmani.o <par>'
 
 It takes one number n from stdin.
 
