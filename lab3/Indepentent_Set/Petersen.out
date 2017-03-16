@@ -1,0 +1,25 @@
+Optimize a model with 15 rows, 10 columns and 30 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.00s
+Presolved: 15 rows, 10 columns, 30 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.0000000e+31   3.000000e+31   1.000000e+01      0s
+      10    5.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective  5.000000000e+00
+x[0] = 0.5
+x[1] = 0.5
+x[2] = 0.5
+x[3] = 0.5
+x[4] = 0.5
+x[5] = 0.5
+x[6] = 0.5
+x[7] = 0.5
+x[8] = 0.5
+x[9] = 0.5
