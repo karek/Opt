@@ -1,0 +1,24 @@
+Optimize a model with 3 rows, 5 columns and 7 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+00]
+Presolve removed 2 rows and 4 columns
+Presolve time: 0.00s
+Presolved: 1 rows, 1 columns, 1 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.9970000e+00   3.000000e-03   0.000000e+00      0s
+       1    2.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 1 iterations and 0.00 seconds
+Optimal objective  2.000000000e+00
+A = [(-1, 1), (1, 0), (0, 1)]
+b = (1, 3, 2)
+c = (1, 1)
+x[0] = 3
+x[1] = 2
+x[2] = 2
+x[3] = 0
+x[4] = 0
