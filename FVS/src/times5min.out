@@ -1,0 +1,180 @@
+==============================
+Test tests/pace-16open/003.graph
+Time spent = 5:00.03
+0
+
+-------------------------
+
+ERROR: Graph is not acyclic
+
+
+==============================
+Test tests/pace-16open/005.graph
+Time spent = 5:00.07
+0
+
+-------------------------
+
+ERROR: Graph is not acyclic
+
+
+==============================
+Test tests/pace-16open/006.graph
+Time spent = 5:00.47
+0
+
+-------------------------
+
+ERROR: Graph is not acyclic
+
+
+==============================
+Test tests/pace-16open/007.graph
+Time spent = 5:00.01
+0
+
+-------------------------
+
+ERROR: Graph is not acyclic
+
+
+==============================
+Test tests/pace-16open/009.graph
+Time spent = 5:00.07
+0
+
+-------------------------
+
+ERROR: Graph is not acyclic
+
+
+==============================
+Test tests/pace-16open/020.graph
+Time spent = 0:09.90
+8
+30 50 51 39 15 14 61 21 
+-------------------------
+
+[EQUAL] Solution for ../tests/pace-16open/020.graph is correct, size = 8
+
+
+==============================
+Test tests/pace-16open/024.graph
+Time spent = 5:00.00
+0
+
+-------------------------
+
+ERROR: Graph is not acyclic
+
+
+==============================
+Test tests/pace-16open/028.graph
+Time spent = 0:11.64
+8
+12 1 31 29 58 10 27 54 
+-------------------------
+
+[EQUAL] Solution for ../tests/pace-16open/028.graph is correct, size = 8
+
+
+==============================
+Test tests/pace-16open/030.graph
+Time spent = 5:00.00
+0
+
+-------------------------
+
+ERROR: Graph is not acyclic
+
+
+==============================
+Test tests/pace-16open/042.graph
+Time spent = 5:00.00
+0
+
+-------------------------
+
+ERROR: Graph is not acyclic
+
+
+==============================
+Test tests/pace-16open/044.graph
+Time spent = 5:00.12
+0
+
+-------------------------
+
+ERROR: Graph is not acyclic
+
+
+==============================
+Test tests/pace-16open/050.graph
+Time spent = 5:00.00
+0
+
+-------------------------
+
+ERROR: Graph is not acyclic
+
+
+==============================
+Test tests/pace-16open/062.graph
+Time spent = 4:39.95
+7
+40 28 43 31 25 46 54 
+-------------------------
+
+[EQUAL] Solution for ../tests/pace-16open/062.graph is correct, size = 7
+
+
+==============================
+Test tests/pace-16open/072.graph
+Time spent = 5:00.34
+0
+
+-------------------------
+
+ERROR: Graph is not acyclic
+
+
+==============================
+Test tests/pace-16open/083.graph
+Time spent = 5:00.00
+0
+
+-------------------------
+
+ERROR: Graph is not acyclic
+
+
+==============================
+Test tests/pace-16open/095.graph
+Time spent = 0:22.79
+8
+47 53 37 56 5 51 43 22 
+-------------------------
+
+[EQUAL] Solution for ../tests/pace-16open/095.graph is correct, size = 8
+
+
+==============================
+Test tests/pace-16open/096.graph
+Time spent = 0:03.00
+6
+12 41 24 13 17 5 
+-------------------------
+
+[EQUAL] Solution for ../tests/pace-16open/096.graph is correct, size = 6
+
+
+==============================
+Test tests/pace-16open/099.graph
+Time spent = 0:12.12
+8
+22 18 21 20 24 15 26 25 
+-------------------------
+
+[EQUAL] Solution for ../tests/pace-16open/099.graph is correct, size = 8
+
+

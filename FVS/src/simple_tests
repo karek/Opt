@@ -1,0 +1,16 @@
+tests/simple/c4.graph
+tests/simple/c5prism.graph
+tests/simple/c7.graph
+tests/simple/cube.graph
+tests/simple/cubicprism.graph
+tests/simple/doublep6.graph
+tests/simple/grid3x3.graph
+tests/simple/grid4x4.graph
+tests/simple/k4.graph
+tests/simple/k5.graph
+tests/simple/k7.graph
+tests/simple/oneDoublep6.graph
+tests/simple/p6.graph
+tests/simple/petersen.graph
+tests/simple/triangle.graph
+tests/simple/wall3x4.graph
